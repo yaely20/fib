@@ -1,0 +1,40 @@
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# MonoDevelop/Xamarin Studio files
+*.userprefs
+
+# Build results
+bin/
+obj/
+Debug/
+Release/
+
+# Rider IDE
+.idea/
+*.sln.iml
+
+# Visual Studio
+.vs/
+
+# NuGet Packages
+*.nupkg
+*.snupkg
+packages/
+*.nuget/
+
+# Logs
+*.log
+
+# Database
+*.mdf
+*.ldf
+
+# Other
+*.dll
+*.pdb
+*.cache
